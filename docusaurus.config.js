@@ -46,7 +46,7 @@ module.exports = {
           items: [
             {
               label: 'Próximamente',
-              href: '#',
+              href: 'https://accesible.es',
             }
           ],
         },
