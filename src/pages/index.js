@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/mola.svg',
     description: (
       <>
-        Queremos fomentar la creación de sitios accesibles, la accesibildad es importante y aquí te explicamos porqué.
+        Queremos fomentar la creación de sitios accesibles, la accesibilidad es importante y aquí te explicamos porqué.
       </>
     ),
   },  
@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/colabora.svg',
     description: (
       <>
-        Ayudanos a mejorar esta guía, puedes corregir o enviarnos nuevos contenidos. <a href='./docs/#agradecimientos'>Aquí te explicamos cómo colaborar.</a>
+        Ayúdanos a mejorar esta guía, puedes corregir o enviarnos nuevos contenidos. <a href='./docs/#agradecimientos'>Aquí te explicamos cómo colaborar.</a>
       </>
     ),
   },

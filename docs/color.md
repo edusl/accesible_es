@@ -9,7 +9,7 @@ title: Color
 
 - Consigue el suficiente contraste entre el contenido y su fondo.
 - Evita colores muy brillantes o demasiado claros.
-- No uses el color como único medio visual para transmitir información, por ejemplo, un daltonico no apreciará bien el borde rojo de un input erróneo, una solición seria añadir un icono de error.
+- No uses el color como único medio visual para transmitir información, por ejemplo, un daltonico no apreciará bien el borde rojo de un input erróneo, una solución sería añadir un icono de error.
 
 > Los colores opuestos o complementarios son aquellos colores que se encuentran en una posición oponible dentro del círculo cromático.
 
@@ -19,8 +19,7 @@ title: Color
 
 Si el usuario no es capaz de distinguir colores, no podrá interpretar correctamente esta gráfica:
 
-
-Añadiendo texto informativo a los porcentajes solicionamos este problema.
+Añadiendo texto informativo a los porcentajes solucionamos este problema.
 
 ### Validaciones
 
@@ -40,7 +39,7 @@ Estas normas de contraste también incluyen:
 
 - Placeholders.
 - Estados focus / hover.
-- Degradados, en este caso testearemos el área de contraste más bajo.
+- Degradados, en este caso testeamos el área de contraste más bajo.
 
 Quedan exentos:
 - Campos deshabilitados.
@@ -51,7 +50,7 @@ Quedan exentos:
 
 ## Utilidades
 
-Hay multiples aplicaciones, herramientas online o extensiones de navegador que permiten analizar el contraste o nos ofrecen paletas adecuadas para nuestro sitio.
+Hay múltiples aplicaciones, herramientas online o extensiones de navegador que permiten analizar el contraste o nos ofrecen paletas adecuadas para nuestro sitio.
 
 https://webaim.org/resources/contrastchecker/
 

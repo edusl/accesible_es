@@ -33,7 +33,7 @@ La accesibilidad es el grado o nivel en el que todas las personas pueden utiliza
 
 ## Accesibilidad web
 
-Usaremos la definición de accesibilidad pero aplicada a un recurso en en internet.
+Usaremos la definición de accesibilidad pero aplicada a un recurso en internet.
 Su objetivo es que estos recursos sean utilizables para el máximo número de personas, independientemente de sus capacidades.
 
 ### ¿Por qué es importante?
@@ -62,15 +62,15 @@ Existen 3 niveles para **medir la accesibilidad de un sitio**.
 - Doble A (AA): cuando cumple todos los puntos de verificación de prioridad 1 y 2.
 - Triple A (AAA): cuando cumple todos los puntos de verificación de prioridad 1, 2 y 3.
 
-> Los rastreadores de los buscadores, como por ejemplo Google, navegarian de una forma similar a como lo hace un usuario invidente.
+> Los rastreadores de los buscadores, como por ejemplo Google, acceden al contenido de una forma similar a como lo hace un usuario invidente.
 
 ### ¿Es complicado hacer una web accesible?
 
 La respuesta depende de varios factores:
 
-* **Tipo de web**, no es igual hacer accesible un simple blog que una galeria multimedia o una intranet de gestión de usuarios por poner un ejemplo.
+* **Tipo de web**, no es igual hacer accesible un simple blog que una galería multimedia o una intranet de gestión de usuarios por poner un ejemplo.
 
-* También influye si **hemos tenido en cuenta la accesibilidad durante la fase de desarrollo** de nuestro sitio, o vamos a aplicarlo con posteriodad.
+* También influye si **hemos tenido en cuenta la accesibilidad durante la fase de desarrollo** de nuestro sitio, o vamos a aplicarlo con posterioridad.
 
 * Otro factor es el nivel de **accesibilidad que queremos alcanzar** (Nivel A, AA, AAA).
 
