@@ -33,10 +33,10 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Guía',
           items: [
             {
-              label: 'Docs',
+              label: 'Inicio',
               to: 'docs/',
             }
           ]
