@@ -18,4 +18,8 @@ Todas las páginas tienen un enlace en la parte inferior para ser editadas en gi
 
 ## Agradecimientos
 
-Para esta web usamos el gestor de documentación docusaurus.
+Gracias a: 
+
+- [docusaurus](https://docusaurus.io/) por su gestor de documentación.
+- [undraw](https://undraw.co/) / [iconfinder](https://iconfinder.com) por los recursos gráficos.
+- [github](https://github.com) por el alojamiento.

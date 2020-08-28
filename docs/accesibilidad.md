@@ -3,8 +3,6 @@ id: accesibilidad
 title: Accesibilidad
 ---
 
-## ¿Qué es la accesibilidad?
-
 La accesibilidad es el grado o nivel en el que todas las personas pueden utilizar un objeto, acceder a un lugar o servicio, con independencia de sus capacidades técnicas, cognitivas o físicas.
 
 > "La Organización Mundial de la Salud (OMS) recoge en sus informes un total de **1000 millones de personas con discapacidad.** El acceso de estas personas a la tecnología debe tenerse en cuenta en la construcción de una sociedad igualitaria." wikipedia

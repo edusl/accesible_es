@@ -10,9 +10,9 @@ const features = [
   {
     title: <>Una web más justa</>,
     imageUrl: 'img/mola.svg',
-    description: (
+    description: ( 
       <>
-        Queremos fomentar la creación de sitios accesibles, la accesibilidad es importante y aquí te explicamos porqué.
+        Queremos fomentar el desarrollo de sitios más accesibles, la accesibilidad es importante y aquí te explicamos porqué.
       </>
     ),
   },  
@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/colabora.svg',
     description: (
       <>
-        Ayúdanos a mejorar esta guía, puedes corregir o enviarnos nuevos contenidos. <a href='./docs/#agradecimientos'>Aquí te explicamos cómo colaborar.</a>
+        Ayúdanos a mejorar esta guía, puedes corregir o enviarnos nuevos contenidos.
       </>
     ),
   },
